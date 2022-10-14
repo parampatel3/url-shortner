@@ -12,6 +12,6 @@ Create a replit account from [here](https://replit.com/). Now fork this git from
 [Replit](https://repl.it/github/priyanshdotxyz/url-shortener).
 ## Support us
 If you want you can join my discord server from [here](https://www.priyansh.xyz/discord),  if u like this consider donating [here](https://priyansh.xyz/donate)<br/>
-Bytheway you can also star 🌟 this project if you want.
+Bytheway you can also star ⭐ this repository if you want.
 ## Credit
 Inspired from [bit.ly](https://bit.ly) :) & created by [Priyansh](https://www.priyansh.xyz) with ♥️
